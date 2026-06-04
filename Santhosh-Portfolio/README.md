@@ -11,7 +11,7 @@ Example:
 
 https://psanthosh-portfolio.netlify.app/
 
----
+------
 
 ## Features
 - Responsive design for desktop, tablet, and mobile devices
