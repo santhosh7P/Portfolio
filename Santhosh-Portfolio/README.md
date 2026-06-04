@@ -3,6 +3,16 @@
 ## Overview
 This is a responsive Personal Portfolio Website developed using HTML, CSS, and JavaScript. The website serves as a digital portfolio to showcase my education, technical skills, projects, certifications, and achievements in a professional and user-friendly manner.
 
+## Live Demo
+
+Add your Netlify live link here after deployment.
+
+Example:
+
+https://psanthosh-portfolio.netlify.app/
+
+---
+
 ## Features
 - Responsive design for desktop, tablet, and mobile devices
 - Professional introduction and profile section
@@ -69,7 +79,7 @@ The primary objective of this portfolio website is to present my academic backgr
 ## Author
 **Santhosh P**
 
-GitHub: https://github.com/santhosh7P/
+GitHub: https://github.com/santhosh7P/Portfolio
 
 LinkedIn: https://www.linkedin.com/in/santhosh-p-116029266/
 
