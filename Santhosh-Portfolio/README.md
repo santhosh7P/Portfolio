@@ -20,14 +20,32 @@ This is a responsive Personal Portfolio Website developed using HTML, CSS, and J
 
 ## Project Structure
 ```
-Portfolio/
+SANTHOSH-PORTFOLIO/
 │
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── assets/
-```
+├── index.html                  # Home Page
+│
+├── header.html                 # Navigation Bar / Header
+├── about.html                  # About Me Section
+├── education.html              # Education Details
+├── skills.html                 # Technical Skills
+├── project.html                # Projects Showcase
+├── contact.html                # Contact Information
+├── footer.html                 # Footer Section
+│
+├── style.css                   # Website Styling
+├── script.js                   # JavaScript Functionality
+│
+├── images/                     # All Images
+│   ├── profile.jpg
+│   ├── project-images
+│   ├── certificates
+│   └── icons
+│
+├── assets/
+│   └── SANTHOSH PERUMAL PORTFOLIO RESUME.pdf
+│
+└── README.md  
+    ```    
 
 ## Purpose
 The primary objective of this portfolio website is to present my academic background, technical expertise, project experience, and certifications in a single platform, making it easier for recruiters and professionals to learn about my qualifications and work.
