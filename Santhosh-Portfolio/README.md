@@ -56,6 +56,7 @@ SANTHOSH-PORTFOLIO/
 │
 └── README.md  
     ```    
+---
 
 ## Purpose
 The primary objective of this portfolio website is to present my academic background, technical expertise, project experience, and certifications in a single platform, making it easier for recruiters and professionals to learn about my qualifications and work.
